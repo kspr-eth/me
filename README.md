@@ -33,5 +33,5 @@
 ---
 
 > **Thanks for stopping by!**  
-> A star is the best support.  
+> A ⭐ is the best support.  
 > DM me on X — always open to ideas, collabs, and crypto talks!
