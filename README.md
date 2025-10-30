@@ -30,7 +30,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kspr-eth&layout=compact&theme=radical&hide_border=true)
 
-![Contribution Snake](https://github.com/kspr-eth/me/blob/output/dist/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/kspr-eth/me/output/dist/github-contribution-grid-snake.svg)
 
 ---
 
