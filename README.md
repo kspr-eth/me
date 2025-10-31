@@ -22,6 +22,12 @@
 
 ---
 
+### Learning Streak
+- [x] **Day 1 (Oct 31)** — Started Python lists + BTC chart
+- [ ] Day 2 (Nov 1) — ?
+
+---
+
 ### My GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=kspr-eth&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
