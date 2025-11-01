@@ -24,7 +24,8 @@
 
 ### Learning Streak
 - [x] **Day 1 (Oct 31)** — Started Python lists + BTC chart
-- [ ] Day 2 (Nov 1) — ?
+- [x] **Day 2 (Nov 1)** — Learned dictionaries + DeFi basics
+- [ ] Day 3 (Nov 2) — ?
 
 ---
 
