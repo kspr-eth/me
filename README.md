@@ -22,10 +22,10 @@
 
 ---
 
-### Learning Streak
 - [x] **Day 1 (Oct 31)** — Started Python lists + BTC chart
 - [x] **Day 2 (Nov 1)** — Learned dictionaries + DeFi basics
-- [ ] Day 3 (Nov 2) — ?
+- [x] **Day 3 (Nov 2)** — Mastered `for`/`while` loops + BTC analysis
+- [ ] Day 4 (Nov 3) — ?
 
 ---
 
