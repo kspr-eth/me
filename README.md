@@ -27,7 +27,8 @@
 - [x] **Day 2 (Nov 1)** — Learned dictionaries + DeFi basics
 - [x] **Day 3 (Nov 2)** — Mastered `for`/`while` loops + BTC analysis
 - [x] **Day 4 (Nov 3)** — Functions (`def`) + Crypto wallets
-- [ ] Day 5 (Nov 4) — ?
+- [x] **Day 5 (Nov 4)** — `append()`, `len()` + Blockchain basics
+- [ ] Day 6 (Nov 5) — ?
 
 ---
 
