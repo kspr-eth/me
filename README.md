@@ -28,7 +28,8 @@
 - [x] **Day 3 (Nov 2)** — Mastered `for`/`while` loops + BTC analysis
 - [x] **Day 4 (Nov 3)** — Functions (`def`) + Crypto wallets
 - [x] **Day 5 (Nov 4)** — `append()`, `len()` + Blockchain basics
-- [ ] Day 6 (Nov 5) — ?
+- [x] **Day 6 (Nov 5)** — `if/else` + Smart contracts intro
+- [ ] Day 7 (Nov 6) — ?
 
 ---
 
