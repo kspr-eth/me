@@ -32,7 +32,8 @@
 - [x] **Day 7 (Nov 6)** — `if/elif/else` + Smart contracts (Ethereum)
 - [x] **Day 8 (Nov 7)** — `try/except` error handling + DeFi: Uniswap, Aave
 - [x] **Day 9 (Nov 8)** — `input()` + NFT basics
-- [ ] Day 10 (Nov 9) — ?
+- [x] **Day 10 (Nov 9)** — `input()` for user interaction + NFT: What are they?
+- [ ] Day 11 (Nov 10) — ?
 
 ---
 
