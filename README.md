@@ -33,7 +33,8 @@
 - [x] **Day 8 (Nov 7)** — `try/except` error handling + DeFi: Uniswap, Aave
 - [x] **Day 9 (Nov 8)** — `input()` + NFT basics
 - [x] **Day 10 (Nov 9)** — `input()` for user interaction + NFT: What are they?
-- [ ] Day 11 (Nov 10) — ?
+- [x] **Day 11 (Nov 10)** — File I/O (`open()`) + Web3.py intro
+- [ ] Day 12 (Nov 11) — ?
 
 ---
 
