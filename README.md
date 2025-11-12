@@ -34,7 +34,8 @@
 - [x] **Day 9 (Nov 8)** — `input()` + NFT basics
 - [x] **Day 10 (Nov 9)** — `input()` for user interaction + NFT: What are they?
 - [x] **Day 11 (Nov 10)** — File I/O (`open()`) + Web3.py intro
-- [ ] Day 12 (Nov 11) — ?
+- [x] **Day 12 (Nov 11)** — File I/O with `with open()` + Web3.py: Connect to Ethereum
+- [ ] Day 13 (Nov 12) — ?
 
 ---
 
