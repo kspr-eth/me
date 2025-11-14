@@ -36,7 +36,8 @@
 - [x] **Day 11 (Nov 10)** — File I/O (`open()`) + Web3.py intro
 - [x] **Day 12 (Nov 11)** — File I/O with `with open()` + Web3.py: Connect to Ethereum
 - [x] **Day 13 (Nov 12)** — Read wallet balance + Gas fees
-- [ ] Day 14 (Nov 13) — ?
+- [x] **Day 14 (Nov 13)** — `requests.get()` + BTC price from CoinGecko API
+- [ ] Day 15 (Nov 14) — ?
 
 ---
 
