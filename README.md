@@ -38,7 +38,8 @@
 - [x] **Day 13 (Nov 12)** — Read wallet balance + Gas fees
 - [x] **Day 14 (Nov 13)** — `requests.get()` + BTC price from CoinGecko API
 - [x] **Day 15 (Nov 14)** — `json()` + Save price to file
-- [ ] Day 16 (Nov 15) — ?
+- [x] **Day 16 (Nov 15)** — `response.json()` + Save BTC price to `price.log`
+- [ ] Day 17 (Nov 16) — ?
 
 ---
 
