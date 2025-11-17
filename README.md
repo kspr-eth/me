@@ -40,7 +40,8 @@
 - [x] **Day 15 (Nov 14)** — `json()` + Save price to file
 - [x] **Day 16 (Nov 15)** — `response.json()` + Save BTC price to `price.log`
 - [x] **Day 17 (Nov 16)** — `time.sleep()` + Auto price checker (loop)
-- [ ] Day 18 (Nov 17) — ?
+- [x] **Day 18 (Nov 17)** — `time.sleep()` + BTC price checker every 60 seconds
+- [ ] Day 19 (Nov 18) — ?
 
 ---
 
