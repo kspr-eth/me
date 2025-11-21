@@ -44,7 +44,8 @@
 - [x] **Day 19 (Nov 18)** — Telegram alerts when price changes > 1%
 - [x] **Day 20 (Nov 19)** — Telegram bot + alerts when BTC price changes > 1%
 - [x] **Day 21 (Nov 20)** — `schedule` library + daily report at 9:00
-- [ ] Day 22 (Nov 21) — ?
+- [x] **Day 22 (Nov 21)** — `schedule` library + daily BTC price report at 09:00
+- [ ] Day 23 (Nov 22) — ?
 
 ---
 
