@@ -47,7 +47,8 @@
 - [x] **Day 22 (Nov 21)** — `schedule` library + daily BTC price report at 09:00
 - [x] **Day 23 (Nov 22)** — Classes (`class`) + simple TradingBot object
 - [x] **Day 24 (Nov 23)** — OOP: `class TradingBot` + methods (check_price, alert)
-- [ ] Day 25 (Nov 24) — ?
+- [x] **Day 25 (Nov 24)** — Inheritance: `TelegramTradingBot(TradingBot)` + send_message()
+- [ ] Day 26 (Nov 25) — ?
 
 ---
 
