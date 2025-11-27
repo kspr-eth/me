@@ -48,8 +48,9 @@
 - [x] **Day 23 (Nov 22)** — Classes (`class`) + simple TradingBot object
 - [x] **Day 24 (Nov 23)** — OOP: `class TradingBot` + methods (check_price, alert)
 - [x] **Day 25 (Nov 24)** — Inheritance: `TelegramTradingBot(TradingBot)` + send_message()
-- [x] **Day 26 (Nov 25)** — Наслідування: `TelegramTradingBot(TradingBot)` + сповіщення в Telegram
-- [ ] Day 27 (Nov 26) — ?
+- [x] **Day 26 (Nov 25)** — Наслідування: `TelegramTradingBot(TradingBot)` + notification Telegram
+- [x] **Day 27 (Nov 26)** — Config file (config.json) + logging instead of print()
+- [ ] Day 28 (Nov 27) — ?
 
 ---
 
