@@ -50,7 +50,8 @@
 - [x] **Day 25 (Nov 24)** — Inheritance: `TelegramTradingBot(TradingBot)` + send_message()
 - [x] **Day 26 (Nov 25)** — Наслідування: `TelegramTradingBot(TradingBot)` + notification Telegram
 - [x] **Day 27 (Nov 26)** — Config file (config.json) + logging instead of print()
-- [ ] Day 28 (Nov 27) — ?
+- [x] **Day 28 (Nov 27)** — `config.json` + `logging` module (professional logging)
+- [ ] Day 29 (Nov 28) — ?
 
 ---
 
