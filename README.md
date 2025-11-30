@@ -51,7 +51,8 @@
 - [x] **Day 26 (Nov 25)** — Наслідування: `TelegramTradingBot(TradingBot)` + notification Telegram
 - [x] **Day 27 (Nov 26)** — Config file (config.json) + logging instead of print()
 - [x] **Day 28 (Nov 27)** — `config.json` + `logging` module (professional logging)
-- [ ] Day 29 (Nov 28) — ?
+- [x] **Day 29 (Nov 28)** — Docker + Dockerfile
+- [ ] Day 30 (Nov 29) — ?
 
 ---
 
