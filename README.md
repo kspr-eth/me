@@ -52,7 +52,8 @@
 - [x] **Day 27 (Nov 26)** — Config file (config.json) + logging instead of print()
 - [x] **Day 28 (Nov 27)** — `config.json` + `logging` module (professional logging)
 - [x] **Day 29 (Nov 28)** — Docker + Dockerfile
-- [ ] Day 30 (Nov 29) — ?
+- [x] **Day 30 (Nov 29)** — Docker + 24/7 bot
+- [ ] Day 31 (Nov 30) — ?
 
 ---
 
